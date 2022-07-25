@@ -1,1 +1,2 @@
-# module_10_challenge
+# Module 10 Challenge
+In this challenge, I use newly acquired unsupervised learning skills to cluster cryptocurrencies using the K-Means algorithm, then optimizing the data using PCA before applying the K-Means algorithm.
